@@ -47,7 +47,7 @@ Sou um desenvolvedor apaixonado por criar soluções tecnológicas eficientes e 
 ### 🎓 Formação
 
 - **Engenharia de Software**
-  - TCC: Sistema de Gestão de Notas com Busca Avançada (2024)
+  - TCC: Sistema de Gestão de Notas com Busca Avançada (2025)
 
 ### 🔍 Projetos em Destaque
 
